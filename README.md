@@ -1,7 +1,7 @@
 # Techbook
 
-### This project is a MERN stack application. It is a website  includes book sales and blog pages. The design of the website belongs to <a href='https://www.victorflow.com/template/pages' target='_blank'>victorflow</a>.
-#### <a href='https://techbooks.vercel.app/' target='_blank'>GO TO Techbook</a>
+### This project is a MERN stack application. It is a website  includes book sales and blog pages. The design of the website 
+
 ## The technologies used in this project.
 
 ### Frontend
